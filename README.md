@@ -28,5 +28,5 @@ Download the Jupyter Notebook, install dependencies and run.
 
 References
 ----------
-Paper submitted 
+Reviewed at ApJ
 
